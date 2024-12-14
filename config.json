@@ -13,7 +13,7 @@
         "controlByShowCount": true,
  
         "updateConfig": {
-            "updateMonitor": false,
+            "updateMonitor": true,
             "requiredVersion": "9999",
             "requiredVersionCode": 126,
             "title": "Mod by @kafuHex",
