@@ -9,7 +9,7 @@
         "NegativeButtonUrl": "https://t.me/destaseo",
         "showPositiveButton": true,
         "positiveButtonText": "Nanti",
-        "maxShowCount": 3,
+        "maxShowCount": 10,
         "controlByShowCount": true,
  
         "updateConfig": {
