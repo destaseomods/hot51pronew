@@ -1,19 +1,19 @@
 {
     "com.sagadsg.user.mady501857": {
-        "credits": "DESTASEO MODS",
+        "credits": "@KafuHex",
         "showDialog": true,
-        "title": "Modder by Destaseo Mods",
+        "title": "Mod by @kafuHex",
         "message": "https://github.com/destaseomods/hot51pronew/raw/refs/heads/main/example.html",
         "showNegativeButton": true,
-        "NegativeButtonText": "Gabung Channel",
-        "NegativeButtonUrl": "https://t.me/destaseo",
+        "NegativeButtonText": "Join Channel",
+        "NegativeButtonUrl": "Hai",
         "showPositiveButton": true,
-        "positiveButtonText": "Nanti",
-        "maxShowCount": 10,
-        "controlByShowCount": true,
+        "positiveButtonText": "Maybe Later",
+        "maxShowCount": 3,
+        "controlByShowCount": false,
  
         "updateConfig": {
-            "updateMonitor": true,
+            "updateMonitor": false,
             "requiredVersion": "9999",
             "requiredVersionCode": 126,
             "title": "Mod by @kafuHex",
