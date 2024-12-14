@@ -10,7 +10,7 @@
         "showPositiveButton": true,
         "positiveButtonText": "Nanti",
         "maxShowCount": 3,
-        "controlByShowCount": false,
+        "controlByShowCount": true,
  
         "updateConfig": {
             "updateMonitor": false,
